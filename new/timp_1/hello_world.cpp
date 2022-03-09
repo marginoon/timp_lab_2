@@ -1,9 +1,9 @@
 #include <iostream>
-#include <string>
+#include <string> // *(^)(%*%^&%(*^
 
 
 int main(){
-    std::string name; // comments
-    std::cin >> name; // comments
-    std::cout << "Hello world from" << name << std::endl; // comments
+    std::string name; // comments (*^*(^()*)
+    std::cin >> name; // comments )*&%&*%)*
+    std::cout << "Hello world from" << name << std::endl; // comments (^$(&^^&%^(&*
 }
